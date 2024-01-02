@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aakash</h1>
 <h3 align="center">A passionate flutter developer from Nepal.</h3>
 
+## 📝 About
 - 🔭 I’m currently working as a **freelancer.**
 - 🤝 I’m looking for help with **fulltime job.**
 - 🌱 I’m currently learning **Flutter**
@@ -56,10 +57,10 @@
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=aakashx58&show_icons=true&locale=en&theme=" alt="aakashx58" /></p>
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=aakashx58&theme=" alt="aakashx58" /></p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
  
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=aakashx58&label=Profile%20views&color=0e75b6&style=flat" alt="aakashx58" /> </p>
+
+  ## 🏆 GitHub Trophies
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aakashx58&theme=default" alt="aakashx58" /></a> </p>
 
