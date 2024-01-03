@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aakash</h1>
-<h3 align="center">A Passionate Flutter Developer from Nepal🇳🇵.</h3>
+<h3 align="center">A Passionate Flutter Developer from Nepal (🇳🇵).</h3>
 
 ## 💫 About Me:
 - 🔭 I’m currently working as a **freelancer.**
