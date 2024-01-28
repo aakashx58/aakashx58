@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aakash</h1>
 
-[![GitHub Banner](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)]
-
 <h2 align="center">A Passionate Flutter Developer from Nepal.</h2>
+
+(https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)
 
 ## 💫 About Me:
 - 🔭 I’m currently working as a **Flutter Developer.**
