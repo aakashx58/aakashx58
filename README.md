@@ -11,7 +11,7 @@
 - 📫 How to reach me **Check my Social links below.**
 - ⚡ Fun fact **Coding is fun!**
 
-<img align-"right" alt-"Coding" width="400" snc-"https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"›
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 ## 🌐 Socials:
 <div> <a href="https://www.linkedin.com/in/aakash569" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
