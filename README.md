@@ -64,11 +64,16 @@
 ## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=aakashx58&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+
 ### ✍️Random Dev Quote:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)<br/>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
+
 
 ### 😂 Random Dev Meme:
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
+<img align="center" height="150" src="https://gifdb.com/images/thumbnail/coding-function-repeat-eat-sleep-7zxwkklr847mhchm.webp"  />
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=aakashx58&icon=0&color=1)](https://visitcount.itsvg.in)
