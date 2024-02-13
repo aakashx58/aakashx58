@@ -18,16 +18,34 @@
 - 📫 How to reach me **Check my Social links below.**
 - ⚡ Fun fact **Coding is fun!**
 
+
+
+
+###
 ## 🌐 Socials:
-<p align="left">
-<a href="https://twitter.com/aakash569" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aakash569" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aakash569" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aakash569" height="30" width="40" /></a>
-<a href="https://fb.com/aakash569" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aakash569" height="30" width="40" /></a>
-<a href="https://instagram.com/ig_aakash569" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ig_aakash569" height="30" width="40" /></a>
-<a href="https://medium.com/aakash569" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="aakash569" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/defconop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="defconop" height="30" width="40" /></a>
-<a href="https://discord.gg/notyourdefcon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="notyourdefcon" height="30" width="40" /></a> 
-</p>
+<div align="left">
+    <a href="https://linkedin.com/in/aakash569" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
+    <a href="https://twitter.com/aakash569" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  /></a>
+    <a href="https://instagram.com/ig_aakash569" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  /></a>
+    <a href="https://facebook.com/aakash569" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  /></a>     
+    <a href="https://youtube.com/defconOP" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  /></a>
+    <a href="https://aakashrajbanshi58@gmail.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  /></a>
+    <a href="https://discord.com/notyourdefcon" target="_blank"> 
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  /></a>
+    <a href="https://medium.com/aakash569" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  /></a>
+    <a href="https://linkt.ree/aakash569" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="52" height="40" alt="linktree logo"  /></a>
+    <a href="https://zaap.bio/aakash569" target="_blank" rel="noreferrer">
+  <img src="https://s3-eu-west-1.amazonaws.com/tpd/logos/60e537346fa87d00016b77cc/0x0.png" width="40" />
+  </a>
+</div>
 
 <!--<img align="right" alt="Coding" width="230" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif%22%E2%80%BA">-->
 
