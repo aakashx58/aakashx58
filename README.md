@@ -1,6 +1,13 @@
-<h1 align="center">Hi 👋, I'm Aakash</h1>
+<h1>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=30&duration=4500&pause=1000&color=FFFFFF&background=301B5D00&vCenter=true&width=435&lines=Hi+👋+I'm+Aakash!">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4500&pause=1000&color=000000&background=301B5D00&vCenter=true&width=435&lines=Hi+👋+I'm+Aakash!">
+    <img alt="IMAGE" src="http://LIGHT_IMAGE_URL.png">
+  </picture>
+</h1>
 
-<h2 align="center">A Passionate Flutter Developer from Nepal.</h2>
+
+<!-- <h2 align="center">A Passionate Flutter Developer from Nepal.</h2>-->
 
 ![GitHub Banner](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)
 
@@ -17,7 +24,7 @@
 <a href="https://instagram.com/ig_aakash569" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:aakashrajbanshi58@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-<img align="right" alt="Coding" width="230" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif%22%E2%80%BA">
+<!--<img align="right" alt="Coding" width="230" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif%22%E2%80%BA">-->
 
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -48,8 +55,8 @@
 ### 😂 Random Dev Meme:
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-### 🔁:
-<img align="center" height="150" src="https://gifdb.com/images/thumbnail/coding-function-repeat-eat-sleep-7zxwkklr847mhchm.webp"  />
+<!--### 🔁:
+<img align="center" height="150" src="https://gifdb.com/images/thumbnail/coding-function-repeat-eat-sleep-7zxwkklr847mhchm.webp"  />-->
 
 
 ---
