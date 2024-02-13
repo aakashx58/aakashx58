@@ -34,7 +34,7 @@
 ## 💻 Tech Stack:
 <div align="left">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,postman,wordpress,photoshop,xd,figma,vscode,androidstudio,git,github,linux&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,postman,photoshop,xd,figma,wordpress,vscode,androidstudio,git,github,linux&theme=dark" />
   </a>
  
 </div>
