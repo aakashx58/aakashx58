@@ -19,7 +19,6 @@
 - ⚡ Fun fact **Coding is fun!**
 
 
-###
 ## 🌐 Socials:
 <div align="left">
     <a href="https://linkedin.com/in/aakash569" target="_blank">
@@ -56,7 +55,7 @@
  
 </div>
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aakashx58&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 <!--![](https://github-readme-stats.vercel.app/api?username=aakashx58&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>-->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aakashx58&theme=dark&hide_border=false)<br/>
@@ -68,11 +67,11 @@
 ![](https://github-profile-trophy.vercel.app/?username=aakashx58&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
-### ✍️Random Dev Quote:
+## ✍️Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
 
 
-### 😂 Random Dev Meme:
+## 😂 Random Dev Meme:
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 <!--### 🔁:
