@@ -68,7 +68,7 @@
 
 
 ## ✍️Random Dev Quote:
-![](https://quotes-github-readme.vercel.app/api?theme=vue)
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
 
 ## 😂 Random Dev Meme:
