@@ -68,7 +68,7 @@
 
 
 ## ✍️Random Dev Quote:
-![](https://quotes-github-readme.vercel.app/api?theme=dark&style="width=device-width")
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&style="width=device-width")
 <!--![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)-->
 
 
