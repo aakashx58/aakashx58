@@ -13,7 +13,7 @@
 
 ## 💫 About Me:
 - 🔭 I’m currently working as a **Flutter Developer.**
-- 🌱 I’m currently learning **Machine Learnimg, AI, Blockchaind and AWS Cloud Clomputing.**
+- 🌱 I’m currently learning **NodeJS and MongoDB.**
 - 💬 Ask me about **Flutter and Tech Stuff.**
 - 📫 How to reach me **Check my Social links below.**
 - ⚡ Fun fact **Coding is fun!**
