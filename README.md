@@ -60,8 +60,8 @@
 <!--![](https://github-readme-stats.vercel.app/api?username=aakashx58&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>-->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aakashx58&theme=dark&hide_border=false)<br/>
 
-## 📈 Contribution Graph:
-[![](https://github-readme-activity-graph.vercel.app/graph?username=aakashx58&theme=tokyo-night)](https://github.com/aakashx58/github-readme-activity-graph)
+<!--## 📈 Contribution Graph:
+[![](https://github-readme-activity-graph.vercel.app/graph?username=aakashx58&theme=tokyo-night)](https://github.com/aakashx58/github-readme-activity-graph)-->
 
 ## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=aakashx58&theme=radical&no-frame=false&no-bg=true&margin-w=4)
