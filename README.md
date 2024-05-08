@@ -7,8 +7,6 @@
 </h1>
 
 
-<!-- <h2 align="center">A Passionate Flutter Developer from Nepal.</h2>-->
-
 ![GitHub Banner](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)
 
 ## 💫 About Me:
@@ -60,8 +58,6 @@
 <!--![](https://github-readme-stats.vercel.app/api?username=aakashx58&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>-->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aakashx58&theme=dark&hide_border=false)<br/>
 
-<!--## 📈 Contribution Graph:
-[![](https://github-readme-activity-graph.vercel.app/graph?username=aakashx58&theme=tokyo-night)](https://github.com/aakashx58/github-readme-activity-graph)-->
 
 ## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=aakashx58&theme=radical&no-frame=false&no-bg=true&margin-w=4)
@@ -75,10 +71,6 @@
 ## 😂 Random Dev Meme:
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-<!--### 🔁:
-<img align="center" height="150" src="https://gifdb.com/images/thumbnail/coding-function-repeat-eat-sleep-7zxwkklr847mhchm.webp"  />-->
-
-
 ---
 [![](https://visitcount.itsvg.in/api?id=aakashx58&icon=0&color=1)](https://visitcount.itsvg.in)
 
@@ -88,11 +80,6 @@
 
 </div>
 
-
-###
-
-<!--br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />-->
-
-###
+<h4 align="center">
+  <a href="https://github.com/aakashx58?tab=repositories" title="Show Repositories">Show More 🔍</a>
+</h4>
