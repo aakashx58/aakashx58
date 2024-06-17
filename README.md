@@ -42,9 +42,6 @@
   </a>
 </div>
 
-<!--<img align="right" alt="Coding" width="230" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif%22%E2%80%BA">-->
-
-
 ## 💻 Tech Stack:
 <div align="left">
   <a href="#">
@@ -53,30 +50,17 @@
  
 </div>
 
-<!--## 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aakashx58&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
-![](https://github-readme-stats.vercel.app/api?username=aakashx58&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=aakashx58&theme=dark&hide_border=false)<br/>-->
+![](https://github-readme-streak-stats.herokuapp.com/?user=aakashx58&theme=dark&hide_border=false)<br/>
 
-
-<!--## 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=aakashx58&theme=radical&no-frame=false&no-bg=true&margin-w=4)-->
-
-
-<!--## ✍️Random Dev Quote:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&style="width=device-width")-->
-
-
-<!--## 😂 Random Dev Meme:
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>-->
-
-## 📅 Isometric commit calendar:
+<!--## 📅 Isometric commit calendar:
 
   <td  align="center">
         <details open><summary>Full year calendar</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.fullyear.svg" alt=""></img></details>
         <details><summary>Half year calendar</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.svg" alt=""></img></details>
         <img width="900" height="1" alt="">
-      </td>
+      </td>-->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=aakashx58&icon=0&color=1)](https://visitcount.itsvg.in)
