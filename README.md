@@ -51,11 +51,16 @@
 </div>
 
 ## 📊 GitHub Stats:
-<div align="left">
+<div align="center">
  
   <img src="https://github-readme-stats.vercel.app/api?username=aakashx58&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="stats graph"  />
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aakashx58&theme=tokyonight&hide_border=false" height="150" alt="stats graph"  />
  
+</div>
+
+## 🐍 GitHub Contributions:
+<div align="center">
+ <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Bishalmoktan/Bishalmoktan/output/github-contribution-grid-snake.svg" />
 </div>
 
 <!--## 📅 Isometric commit calendar:
