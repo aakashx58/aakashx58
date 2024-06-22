@@ -59,9 +59,11 @@
 </div>
 
 ## 🐍 GitHub Contributions:
-<div align="center">
+
+![snake gif](https://github.com/aakashx58/aakashx58/blob/output/github-contribution-grid-snake.svg)
+<!--<div align="center">
  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Bishalmoktan/Bishalmoktan/output/github-contribution-grid-snake.svg" />
-</div>
+</div>-->
 
 <!--## 📅 Isometric commit calendar:
 
