@@ -9,6 +9,7 @@
 
 ![GitHub Banner](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)
 
+
 ## 💫 About Me:
 - 🔭 I’m currently working as a **Flutter Developer.**
 - 🌱 I’m currently learning **NodeJS and MongoDB.**
@@ -42,31 +43,30 @@
   </a>
 </div>
 
+
 ## 💻 Tech Stack:
 <div align="left">
   <a href="#">
     <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,postman,photoshop,xd,figma,wordpress,vscode,androidstudio,git,github,gitlab,linux&theme=dark" />
-  </a>
- 
+  </a> 
 </div>
+
 
 ## 📊 GitHub Stats:
 <div align="center">
- 
   <img src="https://github-readme-stats.vercel.app/api?username=aakashx58&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="stats graph"  />
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aakashx58&theme=tokyonight&hide_border=false" height="150" alt="stats graph"  />
- 
 </div>
 
-## 🐍 GitHub Contributions:
 
-![snake gif](https://github.com/aakashx58/aakashx58/blob/output/github-contribution-grid-snake.svg)
+<!--## 🐍 GitHub Contributions:
+![snake gif](https://github.com/aakashx58/aakashx58/blob/output/github-contribution-grid-snake.svg)-->
 <!--<div align="center">
  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Bishalmoktan/Bishalmoktan/output/github-contribution-grid-snake.svg" />
 </div>-->
 
-<!--## 📅 Isometric commit calendar:
 
+<!--## 📅 Isometric commit calendar:
   <td  align="center">
         <details open><summary>Full year calendar</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.fullyear.svg" alt=""></img></details>
         <details><summary>Half year calendar</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.svg" alt=""></img></details>
@@ -76,12 +76,12 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=aakashx58&icon=0&color=1)](https://visitcount.itsvg.in)
 
+
 <div align="center">
-
-### Show some ❤️ by starring some of the repositories!
-
+  Show some ❤️ by starring some of the repositories!
 </div>
 
-<h4 align="center">
+
+<div align="center">
   <a href="https://github.com/aakashx58?tab=repositories" title="Show Repositories">Show More 🔍</a>
-</h4>
+</div>
