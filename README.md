@@ -71,7 +71,7 @@
 ## 💻 Tech Stack:
 <div align="left">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=c,cpp,dart,flutter,firebase,supabase,fastapi,postman,tensorflow,photoshop,xd,figma,wordpress,vscode,androidstudio,git,github,gitlab,githubactions,cloudflare,vercel,windows,apple,linux,ubuntu&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,dart,flutter,firebase,supabase,fastapi,postman,sqlite,tensorflow,photoshop,xd,figma,wordpress,vscode,androidstudio,git,github,gitlab,githubactions,cloudflare,vercel,windows,apple,linux,ubuntu&theme=dark" />
 <!--     <img width="50" src="https://user-images.githubusercontent.com/25181517/186711578-bf30cb30-40b7-4b45-95a5-bdf837c372e7.png"/> -->
   </a> 
 </div> 
