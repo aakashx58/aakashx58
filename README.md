@@ -41,6 +41,9 @@
    <a href="https://discord.com/channels/@notyourdefcon" target="_blank"> 
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  /></a>
   
+   <a href="https://gitlab.com/aakashx58" target="_blank"> 
+  <img src="https://github.com/onemarc/tech-icons/blob/main/icons/gitlab-dark.svg" width="52" height="40" alt="gitlab logo"  /></a>
+  
    <a href="https://stackoverflow.com/users/23926080/aakash-rajbanshi" target="_blank"> 
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  /></a>
   
@@ -54,7 +57,7 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  /></a>
   
    <a href="https://pub.dev/publishers/aakashrajbanshi.com.np/packages" target="_blank">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Dart-Dark.svg" width="52" height="40" alt="pub.dev logo"  /></a>
+  <img src="https://user-images.githubusercontent.com/25181517/186150304-1568ffdf-4c62-4bdc-9cf1-8d8efcea7c5b.png" height="40" alt="pub.dev logo"  /></a>
   
    <a href="https://linktr.ee/aakash569" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="52" height="40" alt="linktree logo"  /></a>
@@ -69,8 +72,10 @@
 <div align="left">
   <a href="#">
     <img src="https://skillicons.dev/icons?i=c,cpp,dart,flutter,firebase,supabase,fastapi,postman,tensorflow,photoshop,xd,figma,wordpress,vscode,androidstudio,git,github,gitlab,githubactions,cloudflare,windows,apple,linux,ubuntu&theme=dark" />
+<!--     <img width="50" src="https://user-images.githubusercontent.com/25181517/186711578-bf30cb30-40b7-4b45-95a5-bdf837c372e7.png"/> -->
   </a> 
 </div> 
+
 
 
 ## 📊 GitHub Stats:
