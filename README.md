@@ -20,27 +20,43 @@
 
 ## 🌐 Socials:
 <div align="left">
-    <a href="https://linkedin.com/in/aakash569" target="_blank">
+  <a href="https://linkedin.com/in/aakash569" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
-    <a href="https://twitter.com/aakash569" target="_blank">
+    
+  <a href="https://twitter.com/aakash569" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  /></a>
-    <a href="https://instagram.com/ig_aakash569" target="_blank">
+    
+  <a href="https://instagram.com/ig_aakash569" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  /></a>
-    <a href="https://facebook.com/aakash569" target="_blank">
+    
+  <a href="https://facebook.com/aakash569" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  /></a>     
-    <a href="https://youtube.com/@defconOP" target="_blank">
+   
+   <a href="https://youtube.com/@defconOP" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  /></a>
-    <a href="https://aakashrajbanshi58@gmail.com" target="_blank">
+  
+   <a href="https://aakashrajbanshi58@gmail.com" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  /></a>
-    <a href="https://discord.com/channels/@notyourdefcon" target="_blank"> 
+  
+   <a href="https://discord.com/channels/@notyourdefcon" target="_blank"> 
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  /></a>
-    <a href="https://stackoverflow.com/users/23926080/aakash-rajbanshi" target="_blank"> 
+  
+   <a href="https://stackoverflow.com/users/23926080/aakash-rajbanshi" target="_blank"> 
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  /></a>
-    <a href="https://medium.com/@aakash569" target="_blank">
+  
+   <a href="https://www.reddit.com/user/aakash569/" target="_blank">
+  <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Reddit.png"  height="40" alt="reddit logo"  /></a>
+  
+   <a href="https://leetcode.com/u/aakashrajbanshi58/" target="_blank">
+  <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/leetcode/leetcode-light.png"  height="40" alt="leetcode logo"  /></a>
+  
+   <a href="https://medium.com/@aakash569" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  /></a>
-    <a href="https://linktr.ee/aakash569" target="_blank">
+  
+   <a href="https://linktr.ee/aakash569" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="52" height="40" alt="linktree logo"  /></a>
-    <a href="https://zaap.bio/aakash569" target="_blank" rel="noreferrer">
+  
+  <a href="https://zaap.bio/aakash569" target="_blank" rel="noreferrer">
   <img src="https://s3-eu-west-1.amazonaws.com/tpd/logos/60e537346fa87d00016b77cc/0x0.png" width="40" />
   </a>
 </div>
