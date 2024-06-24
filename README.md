@@ -68,9 +68,9 @@
 ## 💻 Tech Stack:
 <div align="left">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,postman,photoshop,xd,figma,wordpress,vscode,androidstudio,git,github,gitlab,linux&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,dart,flutter,firebase,supabase,fastapi,postman,tensorflow,photoshop,xd,figma,wordpress,vscode,androidstudio,git,github,gitlab,githubactions,cloudflare,windows,apple,linux,ubuntu&theme=dark" />
   </a> 
-</div>
+</div> 
 
 
 ## 📊 GitHub Stats:
