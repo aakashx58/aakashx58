@@ -53,6 +53,9 @@
    <a href="https://medium.com/@aakash569" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  /></a>
   
+   <a href="https://pub.dev/publishers/aakashrajbanshi.com.np/packages" target="_blank">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Dart-Dark.svg" width="52" height="40" alt="pub.dev logo"  /></a>
+  
    <a href="https://linktr.ee/aakash569" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="52" height="40" alt="linktree logo"  /></a>
   
