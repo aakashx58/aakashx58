@@ -109,5 +109,5 @@
 
 
 <div align="center">
-  <a href="https://github.com/aakashx58?tab=repositories" title="Show Repositories">...See More</a>
+  <a href="https://github.com/aakashx58?tab=repositories" title="Show Repositories">... See More</a>
 </div>
