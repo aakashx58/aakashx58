@@ -51,7 +51,7 @@
   <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Reddit.png"  height="40" alt="reddit logo"  /></a>
   
    <a href="https://leetcode.com/u/aakashrajbanshi58/" target="_blank">
-  <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/leetcode/leetcode-light.png"  height="40" alt="leetcode logo"  /></a>
+  <img src="https://user-images.githubusercontent.com/63964149/152531278-5e01909d-0c2e-412a-8acc-4a06863c244d.png"  height="40" alt="leetcode logo"  /></a>
   
    <a href="https://medium.com/@aakash569" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  /></a>
