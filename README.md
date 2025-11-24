@@ -1,9 +1,13 @@
-<h1>
+<!-- <h1>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=30&duration=4500&pause=1000&color=FFFFFF&background=301B5D00&vCenter=true&width=435&lines=Hi+👋+I'm+Aakash!">
     <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4500&pause=1000&color=000000&background=301B5D00&vCenter=true&width=435&lines=Hi+👋+I'm+Aakash!">
     <img alt="IMAGE" src="http://LIGHT_IMAGE_URL.png">
   </picture>
+</h1> -->
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&duration=2300&pause=900&color=FF6F3C&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Aakash!" alt="Typing SVG" />
 </h1>
 
 
