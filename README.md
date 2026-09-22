@@ -15,7 +15,7 @@
 
 
 ## 💫 About Me:
-- 🔭 I’m currently working as a **Flutter Developer & Angular.**
+- 🔭 I’m currently working as a **Software Developer.**
 - 🌱 I’m currently learning **.Net**
 - 💬 Ask me about **Tech Stuff.**
 - 📫 How to reach me **Check my Social links below.**
