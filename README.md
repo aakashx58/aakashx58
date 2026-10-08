@@ -16,7 +16,7 @@
 
 ## 💫 About Me:
 - 🔭 I’m currently working as a **Software Developer.**
-- 🌱 I’m currently learning **.Net**
+- 🌱 I'm currently learning C# and .NET and exploring the world of backend development
 - 💬 Ask me about **Tech Stuff.**
 - 📫 How to reach me **Check my Social links below.**
 - ⚡ Fun fact **Coding is fun!**
