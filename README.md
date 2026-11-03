@@ -73,6 +73,14 @@
 </div> 
 
 
+<!--## ⭐ Popular Repositories:
+<div align="center">
+  <a href="https://github.com/aakashx58/portfolio-ideas"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=aakashx58&repo=portfolio-ideas&theme=tokyonight&hide_border=true" alt="portfolio-ideas" /></a>
+  <a href="https://github.com/aakashx58/resume_gen"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=aakashx58&repo=resume_gen&theme=tokyonight&hide_border=true" alt="resume_gen" /></a>
+  <a href="https://github.com/aakashx58/ecommerce_flutter"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=aakashx58&repo=ecommerce_flutter&theme=tokyonight&hide_border=true" alt="ecommerce_flutter" /></a>
+  <a href="https://github.com/aakashx58/flutter_pagination"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=aakashx58&repo=flutter_pagination&theme=tokyonight&hide_border=true" alt="flutter_pagination" /></a>
+</div> -->
+
 
 ## 📊 Stats:
 <div align="center">
