@@ -81,6 +81,16 @@
   <a href="https://github.com/aakashx58/flutter_pagination"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=aakashx58&repo=flutter_pagination&theme=tokyonight&hide_border=true" alt="flutter_pagination" /></a>
 </div> -->
 
+## ✍️ Blogs:
+- 📝 **Hashnode:** [hashnode.com/@aakash58](https://hashnode.com/@aakash58)
+- 📝 **Medium:** [medium.com/@aakash569](https://medium.com/@aakash569)
+
+
+## 🔗 Links:
+- 🏅 **Google Developer Profile:** [g.dev/aakash569](https://g.dev/aakash569)
+- 🎯 **pub.dev Publisher:** [aakashrajbanshi.com.np](https://pub.dev/publishers/aakashrajbanshi.com.np/packages)
+- 📦 **npm:** [jelly-toggle-switch](https://www.npmjs.com/package/jelly-toggle-switch)
+
 
 ## 📊 Stats:
 <div align="center">
