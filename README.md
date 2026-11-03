@@ -1,11 +1,3 @@
-<!-- <h1>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=30&duration=4500&pause=1000&color=FFFFFF&background=301B5D00&vCenter=true&width=435&lines=Hi+👋+I'm+Aakash!">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4500&pause=1000&color=000000&background=301B5D00&vCenter=true&width=435&lines=Hi+👋+I'm+Aakash!">
-    <img alt="IMAGE" src="http://LIGHT_IMAGE_URL.png">
-  </picture>
-</h1> -->
-
 <h1 align="stsrt">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&duration=2300&pause=900&color=FF6F3C&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Aakash!" alt="Typing SVG" />
 </h1>
@@ -82,26 +74,12 @@
 
 
 
-## 📊 GitHub Stats:
+## 📊 Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aakashx58&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="stats graph"  />
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aakashx58&theme=tokyonight&hide_border=false" height="150" alt="stats graph"  />
+  <img height="160" src="https://github-readme-stats-fast.vercel.app/api?username=aakashx58&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub stats" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=aakashx58&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </div>
 
-
-<!--## 🐍 GitHub Contributions:
-![snake gif](https://github.com/aakashx58/aakashx58/blob/output/github-contribution-grid-snake.svg)-->
-<!--<div align="center">
- <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Bishalmoktan/Bishalmoktan/output/github-contribution-grid-snake.svg" />
-</div>-->
-
-
-<!--## 📅 Isometric commit calendar:
-  <td  align="center">
-        <details open><summary>Full year calendar</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.fullyear.svg" alt=""></img></details>
-        <details><summary>Half year calendar</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.svg" alt=""></img></details>
-        <img width="900" height="1" alt="">
-      </td>-->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=aakashx58&icon=0&color=1)](https://visitcount.itsvg.in)
