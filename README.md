@@ -91,6 +91,13 @@
 - 🎯 **pub.dev Publisher:** [aakashrajbanshi.com.np](https://pub.dev/publishers/aakashrajbanshi.com.np/packages)
 - 📦 **npm:** [jelly-toggle-switch](https://www.npmjs.com/package/jelly-toggle-switch)
 
+## ☕ Support:
+<div align="left">
+  <a href="https://buymemomo.com/aakash" target="_blank">
+    <img src="https://img.shields.io/badge/🥟%20Buy%20me%20a%20momo-FF6F3C?style=for-the-badge" height="40" alt="Buy me a momo" />
+  </a>
+</div>
+
 
 ## 📊 Stats:
 <div align="center">
