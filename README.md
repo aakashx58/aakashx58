@@ -84,6 +84,7 @@
 ## ✍️ Blogs:
 - 📝 **Hashnode:** [hashnode.com/@aakash58](https://hashnode.com/@aakash58)
 - 📝 **Medium:** [medium.com/@aakash569](https://medium.com/@aakash569)
+- 📝 **Dev:** [dev.to/aakash_rajbanshi](https://dev.to/aakash_rajbanshi)
 
 
 ## 🔗 Links:
